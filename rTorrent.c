@@ -1,11 +1,5 @@
 /**********************************
- *
- * CS 422: Computer Networks
- * Sample (partial) code for Programming Assignment 1:
- * Basic connect/terminate/list/exit/help functionality, with blocking sockets
  * p2p.c
- * Copyright Purdue University. Do NOT post any part of this code on any public site/repository at any time.
- * Disclaimer: For guidance only. Not guaranteed to be perfectly correct under all error/race conditions.
  **/
 
 #include <stdio.h>
